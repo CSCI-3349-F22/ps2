@@ -6,7 +6,7 @@ In this problem set, you will be experimenting with different sequence tagging a
 * An HMM using Viterbi search to find the best POS tags given emission and transition probabilities (also in `hmm/viterbi.py`)
 * An LSTM for sequence taggging (in `lstm/postag-lstm.ipynb`)
 
-You will add, commit, and push (1) your own version of `viterbi.py` and (2) a PDF containing the answers to all questions beginning with Q in this README and the one Q in the Jupyter motebook. **This is due Friday, November 18, at 11:59pm EST.**
+You will add, commit, and push (1) your own version of `viterbi.py` and (2) a PDF containing the answers to all questions beginning with Q in this README and the two Qs in the Jupyter motebook. **This is due Friday, November 18, at 11:59pm EST.**
 
 
 ## Part 1: Comparing most frequent POS tagging approach with HMM tagger
