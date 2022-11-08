@@ -1,6 +1,6 @@
 # Problem Set 2: POS tagging: most frequent vs. HMM vs. LSTM
 
-In this problem set, you will be experimenting with different sequence tagging algorithms for part-of-speech (POS) tagging. These methods will be:
+In this problem set, you will be experimenting with different sequence tagging algorithms for part-of-speech (POS) tagging:
 
 * Looking up the most frequent POS by calling the nltk POS tagger on invidual words (in `hmm/viterbi.py`)
 * An HMM using Viterbi search to find the best POS tags given emission and transition probabilities (also in `hmm/viterbi.py`)
