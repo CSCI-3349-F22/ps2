@@ -30,7 +30,7 @@ In this part of the problem set, you will implement Viterbi search to determine 
 
 **Q3: What is the accuracy of your Viterbi POS tagger? (If you are doing it right, your accuracy should be above 90%.)**
 
-**Q4: Explain why this yields higher accuracy than just selecting the most frequent part of speech tag for each word, as you did in Part 1.**
+**Q4: Explain why this yields higher accuracy than just selecting the most frequent part of speech tag for each word, as you did in Task 1.**
 
 **Q5: Identify three errors made by the Viterbi search and try to determine why this error was made. You will need to understand what the tags mean. It will also help to think about both the emission and the transition probabilities, as well as stuff like OOVs and word frequency.** 
 
