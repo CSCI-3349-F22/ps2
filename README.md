@@ -1,4 +1,4 @@
-# Problem Set 2: POS tagging: most frequent vs. HMM vs. LSTM
+# Problem Set 2: Sequence Tagging
 
 In this problem set, you will be experimenting with different sequence tagging algorithms for part-of-speech (POS) tagging:
 
