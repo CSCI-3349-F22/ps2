@@ -39,9 +39,9 @@ In this part of the problem set, you will implement Viterbi search to determine 
 ---
 
 ## Part 2: Comparing an LSTM POS tagger to your HMM tagger
-In the `lstm` directory, you'll find Jupyter notebook and some text files. Then open the Jupyter notebook in Colab, as we have done for the past two labs. Then upload the text files to your Google Drive in a directory called `ps2` or use the temporary file storage thing in Colab (and adjust the paths in the code accordingly).
+In the `lstm` directory, you'll find Jupyter notebook and some text files. Open the Jupyter notebook in Colab, as we have done for the past two labs. Then upload the text files to your Google Drive in a directory called `ps2` or use the temporary file storage thing in Colab (and adjust the paths in the code accordingly).
 
-Read the explanations and then run the code cell by cell. Then in your PDF include answers to **Q6** and **Q7**, which appear at the end of the notebook.
+Read the explanations and then run the code cell by cell. Then **in your PDF** include answers to **Q6** and **Q7**, which appear at the end of the notebook.
 
 ---
 
