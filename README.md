@@ -19,7 +19,7 @@ HMMs require two sets of probabilities: *emission probabilities* and *transition
 The code has lots of comments to help you along. Please refer to the slides from Week 9 and Week 10 for full details on how HMMs and Viterbi search work and how our example in class about ice creams relates to the task of POS tagging.
 
 ### Task 1: Most frequent POS
-NLTK has a part of speech tagger that you can call with `nltk.pos_tag()`. If you call it on one word at a time (as opposed to a whole sentence), it will return the most frequent part of speech tag associated with that word. If you run `viterbi.py`, without modifying it in any way, it will print out each test sentence, its correct POS sequence, and the sequence that you'd get if you just picked the most frequent POS tag using `nltk.pos_tag()`.
+NLTK has a part of speech tagger that you can call with `nltk.pos_tag()`. If you call it on one word at a time (as opposed to a whole sentence), it will return the most frequent part of speech tag associated with that word. If you run `viterbi.py`, without modifying it in any way, it will print out each test sentence, its correct POS sequence, and the sequence that you'd get if you just picked the most frequent POS tag using `nltk.pos_tag()`. You don't actually need to do anything here other than run the program as-is.
 
 **Q1: What is the accuracy of this system, as reported by the program?**
 
