@@ -34,7 +34,7 @@ In this part of the problem set, you will implement Viterbi search to determine 
 
 **Q5: Identify three errors made by the Viterbi search and try to determine why this error was made. You will need to understand what the tags mean. It will also help to think about both the emission and the transition probabilities, as well as stuff like OOVs and word frequency.** 
 
-*Here's an example: "Saturday mornings" was tagged as NNP NNP instead of NNP NNS. This could be because P(NNP|NNP) (the probability of seeing NNP after NNP) is much higher than P(NNS|NNP) (the probability of seeing NNS after NNP). Thus, even though the emission probability of NNS for "mornings" was quite high, the high transition probability from NNP to NNP may tipped the scales for NNP.*
+*Here's an example: "Saturday mornings" was tagged as NNP NNP (two proper nouns) instead of NNP NNS (proper noun followed by plural noun). This could be because P(NNP|NNP) (the probability of seeing NNP after NNP) is much higher than P(NNS|NNP) (the probability of seeing NNS after NNP). Thus, even though the emission probability of NNS (plural noun) for "mornings" was quite high, the high transition probability from NNP to NNP may tipped the scales for NNP.*
 
 ---
 
